@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Haris Waesamah</h1>
-<h3 align="center">A passionate frontend developer and backend from Thailand</h3>
+<h3 align="center">A passionate frontend developer and backend from thailand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haris-wsm&label=Profile%20views&color=0e75b6&style=flat" alt="haris-wsm" /> </p>
+
+- 🌱 I’m currently learning **gRPC and Microservice**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
